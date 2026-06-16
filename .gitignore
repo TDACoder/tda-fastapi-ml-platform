@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.h5
+models/
+weights/
+*.log
+logs/
+.env
+.env.local
+.pytest_cache/
+
